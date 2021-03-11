@@ -1,4 +1,12 @@
-!Title: JKTN AD
-!Version: 
-!Homepage: https://github.com/privacy-protection-tools/anti-AD
+! ----------------------------------------------------------
+! PI-HOLE SOCIAL BLOCKLIST: Missing Link
+! ----------------------------------------------------------
+! Source: https://raw.githubusercontent.com/jeffreykmc/adwareHome/main/list
+! Copyright (c) 2020 Jeffrey Kwan
+! License: MIT License
+! ----------------------------------------------------------
+||porn-hub.live^
+||pornhub.com.do^
+||share.dmhy.org/sheng1.gif^
+||hanime1.me^
 ||zhaijishe.world.taobao.com^
