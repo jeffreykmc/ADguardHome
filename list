@@ -39,16 +39,15 @@
 ! - 分享自 LIHKG 討論區
 ! https://lih.kg/fPJsKT
 ! ----------------------------------------------------------
-||atg-etbuf2016-prd-iad1-114281-1326216375.us-east-1.elb.amazonaws.com^
-||events-endpoint-c-394794954.us-east-1.elb.amazonaws.com^
-||events-endpoint-d-1130254936.us-east-1.elb.amazonaws.com^
-||events-endpoint-e-899663497.us-east-1.elb.amazonaws.com^
-||events-endpoint-g-1919267118.us-east-1.elb.amazonaws.com^
-||events-endpoint-i-1172912053.us-east-1.elb.amazonaws.com^
-||events-endpoint-j-660082941.us-east-1.elb.amazonaws.com^
-||p13nlog-1106815646.us-east-1.elb.amazonaws.com^
-||quora-prod-log-vpc-1111597382.us-east-1.elb.amazonaws.com^
-||rpc-tapjoy-com-lb-1378811527.us-east-1.elb.amazonaws.com^
-||serving-126397893.us-east-1.elb.amazonaws.com^
-||tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com^
-||tracking-1611167402.us-east-1.elb.amazonaws.com^
+!||events-endpoint-c-394794954.us-east-1.elb.amazonaws.com^
+!||events-endpoint-d-1130254936.us-east-1.elb.amazonaws.com^
+!||events-endpoint-e-899663497.us-east-1.elb.amazonaws.com^
+!||events-endpoint-g-1919267118.us-east-1.elb.amazonaws.com^
+!||events-endpoint-i-1172912053.us-east-1.elb.amazonaws.com^
+!||events-endpoint-j-660082941.us-east-1.elb.amazonaws.com^
+!||p13nlog-1106815646.us-east-1.elb.amazonaws.com^
+!||quora-prod-log-vpc-1111597382.us-east-1.elb.amazonaws.com^
+!||rpc-tapjoy-com-lb-1378811527.us-east-1.elb.amazonaws.com^
+!||serving-126397893.us-east-1.elb.amazonaws.com^
+!||tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com^
+!||tracking-1611167402.us-east-1.elb.amazonaws.com^
