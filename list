@@ -34,8 +34,8 @@
 ||nukitomo.me^$important
 ||koe-koe.com^$important
 ||eromanga^$important
-||ero-video^$important
 ||immoral.jp^$important
+||/ero-video.*/^$important
 ! ----------------------------------------------------------
 ! COMIC
 ! ----------------------------------------------------------
