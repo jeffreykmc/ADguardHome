@@ -1,4 +1,16 @@
-ir0.mobify.com
+! ----------------------------------------------------------
+! ADGUARD JKTN AllOW LIST
+! ----------------------------------------------------------
+! Source: raw.githubusercontent.com/jeffreykmc/adwareHome/main/allowlist
+! Copyright (c) 2020 Jeffrey Kwan
+! License: MIT License
+! ----------------------------------------------------------
+
+! ----------------------------------------------------------
+! Adblock/Adguard/DNSCloak/NextDNS 係咪廢撚咗？ (7)
+! - 分享自 LIHKG 討論區
+! https://lih.kg/2586138ir0.mobify.com
+! ----------------------------------------------------------
 js.kiwihk.net
 googleusercontent.com
 icloud-content.com
@@ -12,4 +24,5 @@ mobileanalytics.us-east-1.amazonaws.com
 youtubei.googleapis.com
 ios.bugly.wr.pvp.net
 browser.pipe.aria.microsoft.com
-beacons5.gvt3.com^$important
+beacons5.gvt3.com
+

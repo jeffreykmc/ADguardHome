@@ -165,6 +165,8 @@
 ! ----------------------------------------------------------
 ||tyrantdb.com^$important
 ||sta.anicdn.com/assets^$important
+||kmbapp1933cms.eastasia.cloudapp.azure.com^$important
+!||kmbapp1933storageac.blob.core.windows.net^$important
 ! ----------------------------------------------------------
 ! COMIC
 ! ----------------------------------------------------------
@@ -182,12 +184,27 @@
 ! ----------------------------------------------------------
 ||tenkafuma.com^$important
 ||getchu.com^$important
+||cdn-johren-r18.irismystery.com^$important
 ! ----------------------------------------------------------
-! FACEBOOK
-! Adblock/Adguard/DNSCloak/NextDNS 係咪廢撚咗？ (6)
+! Adblock/Adguard/DNSCloak/NextDNS 係咪廢撚咗？ (7)
 ! - 分享自 LIHKG 討論區
-! https://lih.kg/fPJsKT
+! https://lih.kg/2586138
 ! ----------------------------------------------------------
+||ocsp.apple.com^$important
+||asdkd.tutuapp.com^$important
+||rfrl.pw^$important
+||track.clickhubs.com^$important
+||partnerads.ysm.yahoo.com^$important
+||s.gycs.b.yahoodns.net^$important
+||guce.yahoo.com^$important
+||ganon.yahoo.com^$important
+||fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net^$important
+||ads.yap.yahoo.com^$important
+||external.xx.fbcdn.net^$important
+||adservice.google.com.hk^$important
+||adservice.google.com^$important
+||app1933.kmb.hk^$important
+||atg-etbuf2016-prd-iad1-114281-1326216375.us-east-1.elb.amazonaws.com^$important
 ||events-endpoint-c-394794954.us-east-1.elb.amazonaws.com^$important
 ||events-endpoint-d-1130254936.us-east-1.elb.amazonaws.com^$important
 ||events-endpoint-e-899663497.us-east-1.elb.amazonaws.com^$important
@@ -200,3 +217,7 @@
 ||serving-126397893.us-east-1.elb.amazonaws.com^$important
 ||tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com^$important
 ||tracking-1611167402.us-east-1.elb.amazonaws.com^$important
+||adv.lih.kg^$important
+||edge.gycpi.b.yahoodns.net^$important
+||s.yimg.com^$important
+||tp2-beap.cb.g01.yahoodns.net^$important
