@@ -8,7 +8,9 @@
 ||porn-hub.live^$important
 ||pornhub.com.do^$important
 ||share.dmhy.org/*.gif^$important
-||share.dmhy.org/*.jpg^$important
+||share.dmhy.org/*.gif*^$important
+||share.dmhy.org/*.jpg*^$important
+||share.dmhy.org/*.jpg*^$important
 ||hanime1.me^$important
 ||zhaijishe.world.taobao.com^$important
 ||pornhub.pet^$important
