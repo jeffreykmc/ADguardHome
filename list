@@ -221,10 +221,10 @@
 ||rfrl.pw^$important
 ||track.clickhubs.com^$important
 ||partnerads.ysm.yahoo.com^$important
-!||s.gycs.b.yahoodns.net^$important
-!||guce.yahoo.com^$important
-!||ganon.yahoo.com^$important
-!||fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net^$important
+||s.gycs.b.yahoodns.net^$important
+||guce.yahoo.com^$important
+||ganon.yahoo.com^$important
+||fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net^$important
 ||ads.yap.yahoo.com^$important
 ||external.xx.fbcdn.net^$important
 ||adservice.google.com.hk^$important
@@ -245,5 +245,5 @@
 ||tracking-1611167402.us-east-1.elb.amazonaws.com^$important
 ||adv.lih.kg^$important
 ||edge.gycpi.b.yahoodns.net^$important
-||s.yimg.com^$important
+!||s.yimg.com^$important
 ||tp2-beap.cb.g01.yahoodns.net^$important
