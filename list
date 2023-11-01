@@ -448,7 +448,6 @@
 ! DISCUSSION
 ! ----------------------------------------------------------
 ||komicolle.org^$important
-||adv.lihkg.com^$important
 ! ----------------------------------------------------------
 ! GAME
 ! ----------------------------------------------------------
@@ -462,15 +461,17 @@
 ! - 分享自 LIHKG 討論區
 ! https://lih.kg/2586138
 ! ----------------------------------------------------------
-||ocsp.apple.com^$important
 ||asdkd.tutuapp.com^$important
 ||rfrl.pw^$important
 ||track.clickhubs.com^$important
 ||partnerads.ysm.yahoo.com^$important
+||s.gycs.b.yahoodns.net^$important
+||ganon.yahoo.com^$important
+||fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net^$important
+||ads.yap.yahoo.com^$important
 ||external.xx.fbcdn.net^$important
 ||adservice.google.com.hk^$important
 ||adservice.google.com^$important
-||app1933.kmb.hk^$important
 ||atg-etbuf2016-prd-iad1-114281-1326216375.us-east-1.elb.amazonaws.com^$important
 ||events-endpoint-c-394794954.us-east-1.elb.amazonaws.com^$important
 ||events-endpoint-d-1130254936.us-east-1.elb.amazonaws.com^$important
@@ -485,7 +486,6 @@
 ||tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com^$important
 ||tracking-1611167402.us-east-1.elb.amazonaws.com^$important
 ||adv.lih.kg^$important
-||edge.gycpi.b.yahoodns.net^$important
 ||adv.lihkg.com^$important
 ||tp2-beap.cb.g01.yahoodns.net^$important
 ||b.gemini.yahoo.com^$important
